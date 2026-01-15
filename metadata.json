@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Kiéba - Un geste. Un contact.",
+  "description": "L'application révolutionnaire pour échanger vos contacts instantanément par proximité, NFC et QR Code avec une intelligence artificielle intégrée.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
